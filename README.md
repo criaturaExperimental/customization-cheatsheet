@@ -1,7 +1,7 @@
 # CUSTOMIZATION / SHORTCUTS CHEATSHEET (Mac)
 A place to tweak my environment(s)
 
-# Atom
+## Atom
 duplicate line
 - may + cmd + d
 delete line
@@ -15,10 +15,10 @@ delete beginning of word
 delete end of word
 - alt + d
 
-# Vs Code
+## Vs Code
 Visuals (like the annoying blue bar at the bottom
 /Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/workbench.main.css
 
-# Terminal
+## Terminal
 delete word behind prompt
 - ctrl + delete back word
