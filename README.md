@@ -16,6 +16,10 @@ delete end of word
 - alt + d
 
 ## Vs Code
+shortcuts
+comment line
+- cmd + k, cmd + c
+
 Visuals (like the annoying blue bar at the bottom
 /Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/workbench.main.css
 
