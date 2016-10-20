@@ -21,6 +21,8 @@ comment line
 - cmd + k, c
 uncomment line
 - cmd + k, u
+delete line
+- ⇧⌘K 
 
 Visuals (like the annoying blue bar at the bottom
 /Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/workbench.main.css
