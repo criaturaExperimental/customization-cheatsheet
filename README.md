@@ -2,31 +2,31 @@
 A place to tweak my environment(s)
 
 ## Atom
-duplicate line
-- may + cmd + d
-delete line
-- may + ctrl + k
-go to line
-- ctrl + g
-cut to end of line
-- ctrl + k
-delete beginning of word
-- alt + del
-delete end of word
-- alt + d
+- duplicate line
+may + cmd + d
+- delete line
+may + ctrl + k
+- go to line
+ctrl + g
+- cut to end of line
+ctrl + k
+- delete beginning of word
+alt + del
+- delete end of word
+alt + d
 
 ## Vs Code
 shortcuts
-comment line
-- cmd + k, c
-uncomment line
-- cmd + k, u
-delete line
-- ⇧⌘K 
+- comment line
+cmd + k, c
+- uncomment line
+cmd + k, u
+- delete line
+⇧⌘K 
 
 Visuals (like the annoying blue bar at the bottom
 /Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/workbench.main.css
 
 ## Terminal
-delete word behind prompt
-- ctrl + delete back word
+- delete word behind prompt
+ctrl + delete back word
