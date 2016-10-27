@@ -23,6 +23,8 @@ cmd + k, c
 cmd + k, u
 - delete line
 ⇧⌘K 
+- insert cursor at the end of every line
+⇧⌥I
 
 Visuals (like the annoying blue bar at the bottom
 /Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/workbench.main.css
