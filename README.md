@@ -32,3 +32,5 @@ Visuals (like the annoying blue bar at the bottom
 ## Terminal
 - delete word behind prompt
 ctrl + delete back word
+
+side notes:
